@@ -1,0 +1,6 @@
+framework module XsdaKit {
+  umbrella header "XsdaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
